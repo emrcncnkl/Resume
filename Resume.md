@@ -1,7 +1,7 @@
 # Resume
  Emircan Çankal
 
-👨‍💻 Computer Programming Student | 🌱 Aspiring Full-Stack Developer | 🤖 AI Enthusiast
+👨‍💻 Bilgisayar Programcılığı Öğrencisi | 🌱 Full-Stack Developer Adayı | 🤖 Yapay Zeka Meraklısı
 
 📧 Email: emrcncnkl@gmail.com  | 📍 Location: Denizli, Turkiye
 
