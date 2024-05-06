@@ -22,7 +22,7 @@
 
 Projeler
 
--
+-Word_Guess, Calculator, To-Do Lister, Number Guess, Temperature Converter.
 
 Katılımlar ve Başarılar
 
